@@ -1,5 +1,7 @@
 # BLACKCOFFER-PowerBI
--I have already cleaned the dataset
+-This is a real Dataset not a dummy and I have already cleaned the dataset
+
+-Dataset is about all the World Bank Active/Closed and many projects, accross the world till 2022
 
 -You can open th PowerBI file directly from PowerBI desktop
 
