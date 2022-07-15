@@ -1,4 +1,4 @@
-# BlackCoffer-POwerBI-RealTime
+# Real Time data update in Power BI
 
 To access the Google SPreadsheet data:
 https://docs.google.com/spreadsheets/d/1NApONFPYcJQK7hBESA7bVS7Y6FzcIl4owZuiXEX6Kfw/edit?usp=sharing
